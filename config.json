@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me/x_v_x_k"
+          "path": "/vless"
         }
       }
     }
@@ -25,4 +25,5 @@
       "protocol": "freedom"
     }
   ]
+
 }
